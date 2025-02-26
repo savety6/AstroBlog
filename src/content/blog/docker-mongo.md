@@ -5,8 +5,8 @@ modDatetime: 2025-02-25T09:12:47.400Z
 title: MongoDB on Docker
 slug: mongodb-on-docker
 featured: false
-image: /public/assets/images/dockerPlusMongo.webp
-ogImage: /public/assets/images/dockerPlusMongo.webp
+image: /assets/images/dockerPlusMongo.webp
+ogImage: /assets/images/dockerPlusMongo.webp
 tags:
   - docker
   - mongodb
@@ -14,7 +14,7 @@ tags:
 description: Quick start guide for running MongoDB on Docker with persistent data storage.
 ---
 
-![MongoDB on Docker](/public/assets/images/dockerPlusMongo.webp)
+![MongoDB on Docker](/assets/images/dockerPlusMongo.webp)
 
 This guide will walk you through setting up MongoDB in a Docker container with persistent data storage using Docker volumes. We'll create a dedicated directory structure and configure port mapping for easy access.
 
