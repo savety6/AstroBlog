@@ -18,6 +18,10 @@ export default defineConfig({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
     }),
   ],
+  i18n: {
+    locales: ["en", "bg"],
+    defaultLocale: "en",
+  },
   markdown: {
     remarkPlugins: [
       remarkToc,

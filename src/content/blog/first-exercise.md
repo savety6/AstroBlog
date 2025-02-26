@@ -107,7 +107,7 @@ Retrieve documents from a collection:
 db.users.find();
 
 // Find documents with a specific condition
-db.users.find({ "age": { $gt: 30 } });
+db.users.find({ "age": 30 });
 ```
 
 ### 3\. Update

@@ -72,6 +72,9 @@
   html {
     overflow-y: scroll;
   }
+  .lang-switch {
+    @apply bg-skin-accent text-skin-inverted px-2 py-1 rounded-md font-medium hover:text-white;
+  }
 
   /* width */
   ::-webkit-scrollbar {
