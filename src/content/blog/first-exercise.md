@@ -5,8 +5,8 @@ modDatetime: 2025-02-25T09:12:47.400Z
 title: First Exercise
 slug: first-exercise
 featured: false
-image: /src/assets/images/cryBabyMongoDev.webp
-ogImage: /src/assets/images/cryBabyMongoDev.webp
+image: /public/assets/images/cryBabyMongoDev.webp
+ogImage: /public/assets/images/cryBabyMongoDev.webp
 tags:
   - mongodb
   - tutorial
@@ -14,7 +14,7 @@ tags:
 description: First exercise for the MongoDB course.
 ---
 
-![MongoDB on Docker](/src/assets/images/cryBabyMongoDev.webp)
+![MongoDB on Docker](/public/assets/images/cryBabyMongoDev.webp)
 
 MongoDB Shell Crash Course
 ====================

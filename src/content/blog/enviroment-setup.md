@@ -6,14 +6,14 @@ title: Environment Setup
 slug: environment-setup
 featured: true
 draft: false
-image: /src/assets/images/devFindsMongoFirstTime.webp
-ogImage: /src/assets/images/devFindsMongoFirstTime.webp
+image: /public/assets/images/devFindsMongoFirstTime.webp
+ogImage: /public/assets/images/devFindsMongoFirstTime.webp
 tags:
   - docs
 description: A comprehensive guide to setting up your MongoDB development environment on Windows, including installation options and essential tools.
 ---
 
-![Dev finds MongoDB for the first time](/src/assets/images/devFindsMongoFirstTime.webp)
+![Dev finds MongoDB for the first time](/public/assets/images/devFindsMongoFirstTime.webp)
 
 This guide will walk you through setting up your MongoDB development environment on Windows.
 
@@ -42,14 +42,14 @@ MongoDB provides two essential tools for database interaction:
 1. Visit the [MongoDB Download Center](https://www.mongodb.com/try/download/community)
 2. Download the latest MongoDB Community Edition
 
-![MongoDB Community Edition Download Page](/src/assets/screenshots/downloadForWindows.png)
+![MongoDB Community Edition Download Page](/public/assets/screenshots/downloadForWindows.png)
 
 ### Step 2: Installation Configuration
 
 During installation:
 1. Choose "Complete" at the "Setup Type" step
 2. Enable "Install MongoDB as a Service" for automatic startup
-   ![MongoDB Service Configuration](/src/assets/screenshots/mongoServiceConfig.png)
+   ![MongoDB Service Configuration](/public/assets/screenshots/mongoServiceConfig.png)
 3. Select "Install MongoDB Compass" when prompted to install the GUI tool
 
 ### Step 3: MongoDB Shell Setup
